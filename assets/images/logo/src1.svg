@@ -1,0 +1,7 @@
+
+<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { font: bold 48px sans-serif; fill: black; }
+  </style>
+  <text x="10" y="60" class="text">SRC😎😎</text>
+</svg>
